@@ -3,7 +3,7 @@ it makes a strong password
 
 # info
 
-your password is most likely not secure passwords like example: "Hamptersgottaball" can be cracked in under two minutes so this program generates passwords that are verty secure
+your password is most likely not secure passwords like example: "Hamptersgottaball" can be cracked in under two minutes so this program generates passwords that are very secure
 
 # Examples
 &We\#I==Ebp,9B:{j-
